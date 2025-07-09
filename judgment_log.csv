@@ -1,0 +1,2 @@
+timestamp,query,relevant_indices,top_k,precision
+2025-07-08T20:36:35.998712,audio quality poor,"0,1,2",10,1.0
