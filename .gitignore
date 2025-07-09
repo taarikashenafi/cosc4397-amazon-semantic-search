@@ -1,0 +1,4 @@
+.venv/
+data/raw/reviews_segment.pkl
+data/raw/reviews_segment.sql
+data/raw/reviews_segment.xlsx
